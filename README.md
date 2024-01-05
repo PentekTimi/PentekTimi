@@ -11,15 +11,15 @@
   <h1>
   hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+   <p> I specialize in creating solutions using <b>JAVASCRIPT</b>, and various frontend frameworks/libraries and other tools like <b>REACT</b>, <b>NEXTJS</b>, <b>MONGODB</b>, <b>NODEJS</b> and <b>EXPRESS</b>.</p>
   <p>I'm passionate about transforming ideas through programming in purposeful and innovative ways to improve the world around us.<br> I’m driven by impact, curiosity, and collaboration. I love excellence in work and taking on new and exciting challenges.</p>
-  <p> I specialize in creating solutions using <b>JavaScript</b>, and various frontend frameworks/libraries like <b>React</b> and <b>NextJS</b>.</p>
 </div>
 
 <h2>👨🏻‍💻 About me</h2> 
 
 - 👋 Hi, my name is Timea, friends just call me Timi
-- 👀 I work on projects mainly with JavaScript, React, and NextJS.
-- 🔭 Very eager to develop skills with Vue, Typescript, MySQL, and AWS
+- 👀 I work on projects mainly with JavaScript, React, NextJS, MongoDB, Nodejs, and Express.
+- 🔭 I am very eager to develop skills with Vue, Typescript, MySQL, and AWS
 - 🌱 I'm a lifelong learner and always looking for opportunities to grow my skills and knowledge
 - 💞️ I’m excited about all things software and programming
 - 📫 Reach out on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timea-pentek)
