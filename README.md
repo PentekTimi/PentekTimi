@@ -12,7 +12,7 @@
   hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p>I'm passionate about transforming ideas through programming in purposeful and innovative ways to improve the world around us.<br> I’m driven by impact, curiosity, and collaboration. I love excellence in work and taking on new and exciting challenges.</p>
-  <p> I specialize in creating solutions using <b>JavaScript</b>, and various frontend frameworks like <b>React</b> and <b>NextJS</b>.</p>
+  <p> I specialize in creating solutions using <b>JavaScript</b>, and various frontend frameworks/libraries like <b>React</b> and <b>NextJS</b>.</p>
 </div>
 
 <h2>👨🏻‍💻 About me</h2> 
@@ -26,7 +26,7 @@
 
 <h2>🛠 Tech Stack</h2> 
 
-- 💻 JavaScript, React, NextJS, Redux, NodeJS, Express
+- 💻 JavaScript, React, NextJS, Redux, NodeJS, Express, jQuery
 - 💈 HTML, CSS, Bootstrap, Framer Motion
 - 🛢 MongoDB, NoSQL, GCS
 - 🌐 Git, command line, VSCode
