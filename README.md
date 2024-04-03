@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200">
+   <h1>
+  hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/timea-pentek">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,26 +10,24 @@
       <img src="https://img.shields.io/badge/HyperionDev-blue?style=for-the-badge" alt="HyperionDev Badge"/>
     </a>
   </div>
-  <h1>
-  hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-   <p> I specialize in creating solutions using <b>JAVASCRIPT</b>, and various frontend frameworks/libraries and other tools like <b>REACT</b>, <b>NEXTJS</b>, <b>MONGODB</b>, <b>NODEJS</b> and <b>EXPRESS</b>.</p>
-  <p>I'm passionate about transforming ideas through programming in purposeful and innovative ways to improve the world around us.<br> I’m driven by impact, curiosity, and collaboration. I love excellence in work and taking on new and exciting challenges.</p>
+ <br>
+   <p> I specialize in creating solutions using <b>JAVASCRIPT</b>, and various frontend frameworks/libraries and other tools like <b>REACT</b>, <b>VUE</b>, <b>NEXTJS</b>, <b>MONGODB</b>, <b>NODEJS</b> and <b>EXPRESS</b>.</p>
 </div>
 
 <h2>👨🏻‍💻 About me</h2> 
 
 - 👋 Hi, my name is Timea, friends just call me Timi
-- 👀 I work on projects mainly with JavaScript, React, NextJS, MongoDB, Nodejs, and Express.
-- 🔭 I am very eager to develop skills with Vue, Typescript, MySQL, and AWS
+- 👀 I work on projects mainly with JavaScript, React, Vue, NextJS, MongoDB, Nodejs, and Express.
+- 🔭 I am very eager to develop skills with Typescript, MySQL, PHP and AWS
 - 🌱 I'm a lifelong learner and always looking for opportunities to grow my skills and knowledge
 - 💞️ I’m excited about all things software and programming
 - 📫 Reach out on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timea-pentek)
 
 <h2>🛠 Tech Stack</h2> 
 
-- 💻 JavaScript, React, NextJS, Redux, NodeJS, Express, jQuery
-- 💈 HTML, CSS, Bootstrap, Framer Motion
-- 🛢 MongoDB, NoSQL, GCS
+- 💻 JavaScript, React, Vue, NextJS, Redux, NodeJS, Express, jQuery, Stripe
+- 💈 HTML, CSS, Tailwind, Bootstrap, Framer Motion
+- 📚 Context API, Pinia, Options API, Composition API, Vite, Vue-router, Cypress
+- 🛢 MongoDB, Mongoose, Firebase, NoSQL, GCS
 - 🌐 Git, command line, VSCode
 - 🖥 Figma, Adobe Creative Suite: XD, Photoshop, Illustrator, Animate
