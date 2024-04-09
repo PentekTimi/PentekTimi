@@ -18,7 +18,7 @@
 
 - 👋 Hi, my name is Timea, friends just call me Timi
 - 👀 I work on projects mainly with JavaScript, React, Vue, NextJS, MongoDB, Nodejs, and Express.
-- 🔭 I am very eager to develop skills with Typescript, MySQL, PHP and AWS
+- 🔭 I am very eager to develop skills with Typescript, MySQL, Python and AWS
 - 🌱 I'm a lifelong learner and always looking for opportunities to grow my skills and knowledge
 - 💞️ I’m excited about all things software and programming
 - 📫 Reach out on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timea-pentek)
